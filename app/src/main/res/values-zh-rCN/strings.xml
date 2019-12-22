@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">决策</string>
+   <string name="history_name">历史决策</string>
+    <string name="main_name">创建决策</string>
+</resources>
